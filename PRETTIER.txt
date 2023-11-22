@@ -1,0 +1,12 @@
+extension prettier by prettier
+
+go into settings
+
+type in default format
+
+change default formatter to prettier code formatter
+
+type in format
+
+change to format on paste
+change to format on save

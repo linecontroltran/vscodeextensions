@@ -1,0 +1,1 @@
+extension es7 snippets
